@@ -22,7 +22,7 @@ FitZone is a modern fitness platform concept designed to motivate users to achie
 
 ### Mobile Design
 
-![FitZone Mobile Design](Screenshots/390.png)
+![FitZone Mobile Design](390.png)
 
 ## Tools & Technologies
 
